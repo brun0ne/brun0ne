@@ -1,6 +1,6 @@
 ## Profiles
 
-[![brun0ne](https://www.hackthebox.com/badge/image/70197)](https://app.hackthebox.com/profile/70197)
+[![brun0ne](https://www.hackthebox.com/badge/image/70197)](https://app.hackthebox.com/public/users/70197)
 
 [![CTFtime](https://img.shields.io/badge/CTFtime-C1272D?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/151898)
 
